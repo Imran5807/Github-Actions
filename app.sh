@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "Starting the application..."
+echo "Application started successfully."
+echo "Running application..."
+echo "Application is running."
+echo "Stopping the application..."
+echo "Application stopped successfully."
+echo "Application has been stopped."
+echo "Exiting the script."
+echo "Script execution completed."
+echo "Goodbye!"
+echo "End of script."
+echo "Thank you for using the application."
